@@ -69,6 +69,9 @@
 - 항공리스트페이지 / 비디오태그와 애니메이션을 통한 로딩페이지 레이아웃 구현
 - 항공리스트페이지 / Query String을 사용한 통신 (SelectBox, Multi check box)
 
+
+## 회고록 - https://velog.io/@isaacf4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-our-real-trip-%ED%9A%8C%EA%B3%A0%EB%A1%9D
+
 <br>
 
 박경토
